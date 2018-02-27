@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4033e1fc-ea83-4e76-9aff-0478c7a3ccef" name="Met Sandbox" url="http://metsandbox.metisentry.net:3066">
+        <fileTransfer host="metsandbox.metisentry.net" port="44" privateKey="C:\Users\carlc\.ssh\WillCoTech.id_rsa" rootFolder="/home/cconard/projects/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="44" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
